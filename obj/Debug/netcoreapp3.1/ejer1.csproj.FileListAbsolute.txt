@@ -1,0 +1,11 @@
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.exe
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.deps.json
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.runtimeconfig.json
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.runtimeconfig.dev.json
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.dll
+D:\Usuario\Documents\ejer1\bin\Debug\netcoreapp3.1\ejer1.pdb
+D:\Usuario\Documents\ejer1\obj\Debug\netcoreapp3.1\ejer1.csprojAssemblyReference.cache
+D:\Usuario\Documents\ejer1\obj\Debug\netcoreapp3.1\ejer1.AssemblyInfoInputs.cache
+D:\Usuario\Documents\ejer1\obj\Debug\netcoreapp3.1\ejer1.AssemblyInfo.cs
+D:\Usuario\Documents\ejer1\obj\Debug\netcoreapp3.1\ejer1.dll
+D:\Usuario\Documents\ejer1\obj\Debug\netcoreapp3.1\ejer1.pdb
