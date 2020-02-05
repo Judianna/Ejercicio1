@@ -20,6 +20,8 @@ namespace ejer1
             Console.WriteLine("La cantidad de días son {0}",dias);
             Console.WriteLine("la cantidad de semanas {0}",semanas);
             Console.WriteLine("La fecha 1 es: {0}", f1.ToString("dddd, d 'de' MMMM 'de' yyyy"));
+            Console.WriteLine("La fecha 2 es: {0}", f2.ToString("dddd, d 'de' MMMM 'de' yyyy"));
+        
         
 
         }
